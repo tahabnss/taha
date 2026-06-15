@@ -1,0 +1,6 @@
+{
+  "name": "Algerian Constitution Portal",
+  "description": "The official interactive search and navigation portal for the Algerian Constitution, enabling live keyword search, article numbers and legal classifications matching, bookmarks, and comparative study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
